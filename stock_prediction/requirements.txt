@@ -1,0 +1,11 @@
+cmdstanpy==1.2.4
+
+Cython==3.0.10
+fastapi==0.111.1
+joblib==1.4.2
+numpy==2.0.1
+pandas==2.2.2
+plotly==5.23.0
+prophet==1.1.5
+uvicorn==0.30.3
+yfinance==0.2.41
